@@ -43,7 +43,7 @@ A robust backend service that handles:
 - Storage: Azure Blob Storage
 - AI Services:
   - Microsoft Azure Custom Vision API
-  - OpenRouter API with Microsoft MAI-DS-R1 model
+  - OpenRouter API with Microsoft's Phi Mini Instruct model
 - Email Service: Nodemailer
 
 ### 3. Fundusnap AI ([fundusnap-ai](https://github.com/fundusnap/fundusnap-ai))
